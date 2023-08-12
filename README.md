@@ -1,11 +1,17 @@
-# next-template
+# next-template-2023
 
 A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+
+기존 repo :https://github.com/shadcn/next-template
+
+- shadcn 사용하기 위한 필요 패키지 추가 설치
+
+https://ui.shadcn.com/
 
 ## Usage
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+npx create-next-app -e https://github.com/inojeon/nextjs-template-2023
 ```
 
 ## Features
